@@ -1,0 +1,15 @@
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\bin\Debug\net10.0\Modul4_103022400060.exe
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\bin\Debug\net10.0\Modul4_103022400060.deps.json
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\bin\Debug\net10.0\Modul4_103022400060.runtimeconfig.json
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\bin\Debug\net10.0\Modul4_103022400060.dll
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\bin\Debug\net10.0\Modul4_103022400060.pdb
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.AssemblyInfoInputs.cache
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.AssemblyInfo.cs
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.csproj.CoreCompileInputs.cache
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.sourcelink.json
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.dll
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\refint\Modul4_103022400060.dll
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.pdb
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\Modul4_103022400060.genruntimeconfig.cache
+C:\Users\Keisya\source\repos\Modul4_103022400060\Modul4_103022400060\obj\Debug\net10.0\ref\Modul4_103022400060.dll

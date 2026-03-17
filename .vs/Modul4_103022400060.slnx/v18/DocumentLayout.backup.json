@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Keisya\\source\\repos\\Modul4_103022400060\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FA7BFCB-3866-4CB4-BD79-06B5E23A16A8}|Modul4_103022400060\\Modul4_103022400060.csproj|c:\\users\\keisya\\source\\repos\\modul4_103022400060\\modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FA7BFCB-3866-4CB4-BD79-06B5E23A16A8}|Modul4_103022400060\\Modul4_103022400060.csproj|solutionrelative:modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6994B7E7-93C9-F5AE-8D24-135D14BD112B}|Modul4_103022400060\\Modul4_103022400060.csproj|c:\\users\\keisya\\source\\repos\\modul4_103022400060\\modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6994B7E7-93C9-F5AE-8D24-135D14BD112B}|Modul4_103022400060\\Modul4_103022400060.csproj|solutionrelative:modul4_103022400060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6994B7E7-93C9-F5AE-8D24-135D14BD112B}|Modul4_103022400060\\Modul4_103022400060.csproj|c:\\users\\keisya\\source\\repos\\modul4_103022400060\\modul4_103022400060\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6994B7E7-93C9-F5AE-8D24-135D14BD112B}|Modul4_103022400060\\Modul4_103022400060.csproj|solutionrelative:modul4_103022400060\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePaket.cs",
+              "DocumentMoniker": "C:\\Users\\Keisya\\source\\repos\\Modul4_103022400060\\Modul4_103022400060\\KodePaket.cs",
+              "RelativeDocumentMoniker": "Modul4_103022400060\\KodePaket.cs",
+              "ToolTip": "C:\\Users\\Keisya\\source\\repos\\Modul4_103022400060\\Modul4_103022400060\\KodePaket.cs",
+              "RelativeToolTip": "Modul4_103022400060\\KodePaket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:59:40.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Keisya\\source\\repos\\Modul4_103022400060\\Modul4_103022400060\\Program.cs",
               "RelativeDocumentMoniker": "Modul4_103022400060\\Program.cs",
-              "ToolTip": "C:\\Users\\Keisya\\source\\repos\\Modul4_103022400060\\Modul4_103022400060\\Program.cs",
-              "RelativeToolTip": "Modul4_103022400060\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Keisya\\source\\repos\\Modul4_103022400060\\Modul4_103022400060\\Program.cs*",
+              "RelativeToolTip": "Modul4_103022400060\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T23:47:00.629Z",
               "EditorCaption": ""
