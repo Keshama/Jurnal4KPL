@@ -15,6 +15,19 @@ namespace Modul4_103022400060
             {
                 Console.WriteLine($"Paket: {nama,-10} | Kode: {kode.getKodePaket(nama)}");
             } 
+
+            MesinKopi mesinKopi = new MesinKopi();
+            Console.WriteLine("/-- perubahan sesuai soal");
+            mesinKopi.UbahState(MesinKopi.Trigger.POWER_ON);
+            mesinKopi.UbahState(MesinKopi.Trigger.START_BREW);
+            mesinKopi.UbahState(MesinKopi.Trigger.FINISH_BREW);
+            mesinKopi.UbahState(MesinKopi.Trigger.START_MAINTENANCE);
+            mesinKopi.UbahState(MesinKopi.Trigger.FINISH_MAINTENANCE);
+            mesinKopi.UbahState(MesinKopi.Trigger.POWER_OFF);
+            Console.WriteLine("/-- uji gagal");
+            mesinKopi.UbahState(MesinKopi.Trigger.START_BREW);
+            Console.ReadLine();
+
         }
     }
 }
